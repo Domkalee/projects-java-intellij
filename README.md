@@ -1,2 +1,2 @@
 # projects-java-intellij
-projects java in intellij
+A repo for projects java in intellij
